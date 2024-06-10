@@ -1,6 +1,7 @@
-# Material Management Dashboard
+# Material Waste Management Dashboard
 
-## Deploy [Dashboard](https://wastedisposal.streamlit.app/)
+## Deploy [Dashboard Visualization](https://wastedisposal.streamlit.app/)
+## [Presentation](https://www.canva.com/design/DAGHZk_FiS8/ykgocL3F8w5j1ritsUq1bg/view?utm_content=DAGHZk_FiS8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Inspiration
 This project provides an in-depth analysis of California's waste characterization data, categorized by county.

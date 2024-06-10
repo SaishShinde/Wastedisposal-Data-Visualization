@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 
 # Page configuration
 st.set_page_config(
-    page_title="Material Management Dashboard",
+    page_title="Material Waste Management Dashboard",
     page_icon="🏂",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -97,7 +97,7 @@ df = pd.DataFrame(data)
 
 # Sidebar
 with st.sidebar:
-    st.title("Material Management Dashboard")
+    st.title("Material Waste Management Dashboard")
     material_category = st.selectbox("Select Material Category", df['Material Category'].unique())
     
     color_theme_list = ['blues', 'cividis', 'greens', 'inferno', 'magma', 'plasma', 'reds', 'rainbow', 'turbo', 'viridis']
